@@ -1,0 +1,30 @@
+﻿body {
+    background-color: #D7BDE2;
+}
+.table {
+    background-color: lightpink;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightslategrey;
+    font: bold;
+}
+.titulo_create {
+    border: 1px solid;
+    width: 130px;
+    height: 65px;
+}
+.Nombre {
+    width: 450px;
+    margin-left:30%;
+    color: darkviolet;
+    box-shadow: -1px 1px 4px rgba(0, 0, 0, 0.4);
+    border-color: white
+}
+.title-list {
+    border: 1px solid;
+    box-shadow: -1px 1px 4px rgba(0, 0, 0, 0.4);
+    margin-left: 35%;
+    width: 350px;
+    height: 60px;
+    text-align: center
+}
+

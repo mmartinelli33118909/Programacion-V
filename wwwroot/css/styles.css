@@ -1,0 +1,94 @@
+﻿.body {
+    background-color: #EAEDFF
+}
+
+.text-center {
+    border: 1px solid;
+    box-shadow: -1px 1px 4px rgba(0, 0, 0, 0.4);
+    padding: 3% 5% 5% 5%
+}
+
+.title-list {
+    border: 1px solid;
+    box-shadow: -1px 1px 4px rgba(0, 0, 0, 0.4);
+    margin-left: 35%;
+    width: 350px;
+    height: 60px;
+    text-align: center
+}
+
+.button-create {
+    width: 200px;
+    height: 40px;
+    margin-bottom: 3%;
+    background-color: #CDD4FF;
+    font-size: 1.4rem; 
+    border-radius: 0.5rem;
+    box-shadow: -1px 1px 4px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.select-input {
+    width: 150px;
+    height: 40px;
+    border-radius: 0.5rem;
+    box-shadow: -1px 1px 4px rgba(0, 0, 0, 0.4);
+    background-color: #EAEBEE;
+    margin-right: 2%;
+}
+
+.text-input {
+    width: 150px;
+    height: 40px;
+    border-radius: 0.3rem;
+    box-shadow: -1px 1px 4px rgba(0, 0, 0, 0.4);
+    background-color: #EAEBEE;
+    margin-right: 2%;
+}
+
+.table{
+    background-color: whitesmoke;
+    width: 100%;
+}
+
+th, td {
+    padding: 10px;
+    background-color: #DDE9FE;
+}
+
+.table-thead {
+    background-color: #3379FC;
+    border-bottom: solid 2px black;
+}
+
+tr:nth-child(even){
+    background-color: #8393B0;
+}
+
+tr:hover td {
+    background-color: #D2E1FC;
+}
+
+.Title-create{
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    margin-left: 35%
+}
+
+.create-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Delete-form{
+    margin-left: 25%;
+    margin-top:3%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+}
+
+
